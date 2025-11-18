@@ -30,15 +30,16 @@
 
 ###
 
-
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroccarrijo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
-<div align="center" > 
-
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/pedroccarrijo?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_loop=true&format=html&weeks=30&theme=blue) 
-
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedroccarrijo/pedroccarrijo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedroccarrijo/pedroccarrijo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pedroccarrijo/pedroccarrijo/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
