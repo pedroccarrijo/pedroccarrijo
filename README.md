@@ -36,6 +36,11 @@
 
 ###
 
-[<img src="https://raw.githubusercontent.com/pedroccarrijo/pedroccarrijo/output/snake.svg" alt="Snake animation" />](https://ssr-contributions-svg.vercel.app/_/pedroccarrijo?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_loop=true&weeks=30&theme=blue)
+<div align="center" > 
+
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/pedroccarrijo?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_loop=true&format=html&weeks=30&theme=blue) 
+
+
+</div>
 
 ###
