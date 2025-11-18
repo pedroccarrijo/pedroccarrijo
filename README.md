@@ -36,10 +36,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedroccarrijo/pedroccarrijo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedroccarrijo/pedroccarrijo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pedroccarrijo/pedroccarrijo/output/pacman-contribution-graph.svg">
-</picture>
+[<img src="https://raw.githubusercontent.com/pedroccarrijo/pedroccarrijo/output/snake.svg" alt="Snake animation" />](https://ssr-contributions-svg.vercel.app/_/pedroccarrijo?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_loop=true&weeks=30&theme=blue)
 
 ###
