@@ -1,45 +1,75 @@
-<h1 align="left">Olá 👋, sou o Pedro</h1>
+<div align="center">
 
-###
+# Olá, eu sou o Pedro! 👋
 
-<h2 align="left">Sobre 🎓</h2>
+### Estudante de Engenharia de Software | Full Stack em formação
 
-###
+<p>
+  Apaixonado por tecnologia, desenvolvimento e resolução de problemas.
+</p>
 
-<p align="left">Sou estudante de Engenharia de Software na UniFACEF e estou no inicio da minha jornada como desenvolvedor. Meu objetivo é continuar aprendendo, desenvolvendo projetos reais e, aos poucos me tornando um desenvolvedor completo e preparado para o mercado.</p>
-
-###
-
-<h2 align="left">Tecnologias e Ferramentas 👨‍💻</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroccarrijo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+## 👨‍💻 Sobre mim
+
+🎓 Estou cursando o **6º período de Engenharia de Software na UniFACEF**.
+
+💼 Atualmente atuo como **estagiário em Suporte Técnico**, adquirindo experiência profissional com tecnologia, atendimento a usuários e resolução de problemas.
+
+🚀 Tenho direcionado meus estudos para o **desenvolvimento Full Stack**, buscando ampliar meus conhecimentos tanto em front-end quanto em back-end.
+
+📚 Estou constantemente aprendendo novas tecnologias e colocando meus conhecimentos em prática através de estudos e projetos.
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
+
 </div>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedroccarrijo/pedroccarrijo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedroccarrijo/pedroccarrijo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pedroccarrijo/pedroccarrijo/output/pacman-contribution-graph.svg">
-</picture>
+## 📚 Atualmente
 
-###
+* 💻 Aprofundando meus conhecimentos em **desenvolvimento Full Stack**
+* 🌐 Estudando e praticando desenvolvimento web
+* 🧠 Aprimorando lógica de programação e resolução de problemas
+* 🔧 Desenvolvendo experiência profissional através do estágio em **Suporte Técnico**
+* 🚀 Construindo minha trajetória na área de tecnologia
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="https://github.com/pedroccarrijo">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Código, aprendizado e evolução constante.
+
+</div>
