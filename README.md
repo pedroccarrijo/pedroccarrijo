@@ -2,10 +2,10 @@
 
 # Olá, eu sou o Pedro! 👋
 
-### Estudante de Engenharia de Software | Full Stack em formação
+### Estudante de Engenharia de Software • Desenvolvimento Full Stack
 
 <p>
-  Apaixonado por tecnologia, desenvolvimento e resolução de problemas.
+  Construindo experiência na área de tecnologia e ampliando meus conhecimentos em desenvolvimento de software.
 </p>
 
 </div>
@@ -14,13 +14,13 @@
 
 ## 👨‍💻 Sobre mim
 
-🎓 Estou cursando o **6º período de Engenharia de Software na UniFACEF**.
+🎓 Curso o **6º período de Engenharia de Software na UniFACEF**.
 
-💼 Atualmente atuo como **estagiário em Suporte Técnico**, adquirindo experiência profissional com tecnologia, atendimento a usuários e resolução de problemas.
+💼 Atualmente trabalho como **estagiário em Suporte Técnico**, tendo contato diário com resolução de problemas, suporte a usuários e diferentes demandas relacionadas à tecnologia.
 
-🚀 Tenho direcionado meus estudos para o **desenvolvimento Full Stack**, buscando ampliar meus conhecimentos tanto em front-end quanto em back-end.
+💻 Paralelamente, venho direcionando meus estudos para o **desenvolvimento Full Stack**, explorando tanto o front-end quanto o back-end e aplicando esses conhecimentos em projetos práticos.
 
-📚 Estou constantemente aprendendo novas tecnologias e colocando meus conhecimentos em prática através de estudos e projetos.
+📈 Meu objetivo é continuar evoluindo tecnicamente e ganhar cada vez mais experiência com desenvolvimento de software.
 
 ---
 
@@ -46,13 +46,13 @@
 
 ---
 
-## 📚 Atualmente
+## 📌 No momento
 
-* 💻 Aprofundando meus conhecimentos em **desenvolvimento Full Stack**
-* 🌐 Estudando e praticando desenvolvimento web
-* 🧠 Aprimorando lógica de programação e resolução de problemas
-* 🔧 Desenvolvendo experiência profissional através do estágio em **Suporte Técnico**
-* 🚀 Construindo minha trajetória na área de tecnologia
+* Desenvolvendo meus conhecimentos em **Full Stack**
+* Praticando desenvolvimento web
+* Aprofundando conhecimentos em **JavaScript e TypeScript**
+* Ganhando experiência profissional na área de tecnologia através do estágio
+* Desenvolvendo novos projetos para colocar em prática o que venho estudando
 
 ---
 
@@ -67,13 +67,5 @@
 <a href="https://github.com/pedroccarrijo">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 Código, aprendizado e evolução constante.
 
 </div>
